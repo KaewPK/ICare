@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784809946710",
+    "firebase_url": "https://icarehotel-e564f.firebaseio.com",
+    "project_id": "icarehotel-e564f",
+    "storage_bucket": "icarehotel-e564f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784809946710:android:592ce72f209479af1c15f7",
+        "android_client_info": {
+          "package_name": "com.scom.icarehotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784809946710-mfh5tsjv9khg77v1gn3nncnm3cosrgno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNmNaMmnqSFUHTERaVr-oqN47phUqcog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784809946710-mfh5tsjv9khg77v1gn3nncnm3cosrgno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
